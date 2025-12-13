@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "知らないままで",
+  "base_artist": "Rokudenashi",
+  "createdAt": "2025-12-13T06:06:09.715431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "知らないままで",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_知らないままで_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "知らないままで",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/02_知らないままで_ロクデナシ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "知らないままで",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/03_知らないままで_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "知らないままで",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_知らないままで_ロクデナシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "知らないままで",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_02_知らないままで_ロクデナシ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "知らないままで",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_03_知らないままで_ロクデナシ.txt"
+    }
+  ]
+}
